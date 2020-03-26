@@ -1,0 +1,34 @@
+{
+    "objectTypes": [
+        {
+          "name" : "Hand Squirrel",
+          "price" : 9.75,
+          "details" : "While it's all well and good to have a variety of puppets at your disposal, few things rival this strangely-realistic hand squirrel.", 
+          "image" : "pic1.jpg"
+        },
+        {
+            "name" : "Turkey Hat",
+            "price" : 12.99,
+            "details" : "While most people don't typically dress up for Thanksgiving, this charming turkey hat seems worth making an exception for.", 
+            "image" : "pic2.jpeg"
+          },
+          {
+            "name" : "Inflatable Unicorn Horn For Cats",
+            "price" : 6.02,
+            "details" : "You probably already think your cat is quite the unicorn, but you can easily make it official with this accessory that definitely won't get you clawed to oblivion.", 
+            "image" : "pic3.jpg"
+          },
+          {
+            "name" : "Life Size Cutout of Danny DeVito",
+            "price" : 74.97,
+            "details" : "For those who think there's nothing more comforting than having the star of It's Always Sunny in Philadelphia and One Flew Over the Cuckoo's Nest watch over you, this Danny DeVito cutout should come in handy.", 
+            "image" : "pic4.jpg"
+          },
+          {
+            "name" : "Baby hands candles",
+            "price" : 15.00,
+            "details" : "If you can get over the natural aversion to lighting a couple of eerily-lifelike baby hands on fire, you're in for a treat with these handmade, pure beeswax candles.", 
+            "image" : "pic5.jpg"
+          }
+      ]
+    }
